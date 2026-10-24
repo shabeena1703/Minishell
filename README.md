@@ -452,5 +452,5 @@ Through this project, I gained practical experience in:
 
 📧 Email: skshabeena33@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/shaik-shabeena-36a7b9332
+🔗 LinkedIn: https://www.linkedin.com/in/shaik-shabeena-36a7b9332/
 
