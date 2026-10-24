@@ -451,8 +451,6 @@ Through this project, I gained practical experience in:
 **Shabeena**
 
 **Email:** [skshabeena33@gmail.com](url)
+
 **LinkedIn:**[ https://www.linkedin.com/in/shaik-shabeena-36a7b9332/](url)
 
----
-
-⭐ If you find this project useful, explore the code to understand how a basic Linux shell works.
