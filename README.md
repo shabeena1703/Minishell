@@ -450,7 +450,6 @@ Through this project, I gained practical experience in:
 
 **Shabeena**
 
-**Email:** [skshabeena33@gmail.com](url)
-
-**LinkedIn:**[ https://www.linkedin.com/in/shaik-shabeena-36a7b9332](url)
+📧 Email: skshabeena33@gmail.com
+🔗 LinkedIn: linkedin.com/in/shaik-shabeena-36a7b9332
 
