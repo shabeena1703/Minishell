@@ -190,7 +190,7 @@ Piping allows the output of one command to become the input of another command u
 ls | wc
 ```
 
-Here:
+**Explanation:**
 - `ls` displays directory entries.
 - `|` passes the output to the next command.
 - `wc` counts the lines, words, and bytes.
@@ -201,7 +201,7 @@ Here:
 ls -l | grep c | wc
 ```
 
-Here:
+**Explanation:**
 1. `ls -l` displays detailed directory information.
 2. `grep c` filters lines containing the character `c`.
 3. `wc` counts the resulting lines, words, and bytes.
@@ -296,11 +296,13 @@ gcc main.c scan_input.c commands.c -o minishell
 
 ### Step 4: Enter Commands
 
-After the Mini Shell starts, enter commands at the prompt. The following examples show the outputs from your terminal session.
+After the Mini Shell starts, enter commands at the prompt.
 
 **Important:** Run the executable from the directory containing `external_commands.txt`, because the program loads that file using a relative path.
 
 ## 🖥️ Sample Outputs
+
+The following examples are from the project's terminal session.
 
 ### 1. Directory and File Listing
 
@@ -448,9 +450,10 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Author
 
-**Shabeena**
+**Sk Shabeena**
 
-📧 Email: skshabeena33@gmail.com
+📧 **Email:** [skshabeena33@gmail.com](mailto:skshabeena33@gmail.com)
 
-🔗 LinkedIn: https://www.linkedin.com/in/shaik-shabeena-36a7b9332/
+🔗 **LinkedIn:** [https://www.linkedin.com/in/shaik-shabeena-36a7b9332/](https://www.linkedin.com/in/shaik-shabeena-36a7b9332/)
+
 
